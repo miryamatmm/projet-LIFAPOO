@@ -47,3 +47,8 @@ Notre IA, "Golmon", offre une expérience stratégique en solo et en multijoueur
 cd projet-LIFAPOO
 javac VC.java
 java VC
+```
+
+## Auteurs
+
+NAJI Adam, ATAMNA Miryam
